@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "829442384484",
+    "project_id": "cl-stock-77746",
+    "storage_bucket": "cl-stock-77746.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:829442384484:android:0ac6a1689cf31fe8f6f571",
+        "android_client_info": {
+          "package_name": "com.example.clstock"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAhK8YsfKVQcFy48bm1s_Tat97gsSjnGDk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
